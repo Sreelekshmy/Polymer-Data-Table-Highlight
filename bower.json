@@ -1,0 +1,21 @@
+{
+  "name": "Polymer-Data-Table-Highlight",
+  "homepage": "https://github.com/Sreelekshmy/Polymer-Data-Table-Highlight",
+  "description": "POC for PX DATA TABLE HIGHLIGHT",
+  "main": "index.html",
+  "authors": [
+    "Sreelekshmy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.0.0",
+    "px-data-table": "https://github.com/predixdesignsystem/px-data-table.git#^6.1.2"
+  }
+}

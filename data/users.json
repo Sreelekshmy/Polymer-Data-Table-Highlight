@@ -1,0 +1,20 @@
+[
+    {
+        "firstName":"Romin",
+        "lastName":"Irani",
+        "phoneNumber":"408-1234567",
+        "emailAddress":"romin.k.irani@gmail.com"
+    },
+    {
+        "firstName":"Neil",
+        "lastName":"Irani",
+        "phoneNumber":"408-1111111",
+        "emailAddress":"neilrirani@gmail.com"
+    },
+    {
+        "firstName":"Tom",
+        "lastName":"Hanks",
+        "phoneNumber":"408-2222222",
+        "emailAddress":"tomhanks@gmail.com"
+    }
+]
