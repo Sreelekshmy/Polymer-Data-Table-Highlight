@@ -1,1 +1,13 @@
-<script> PxHighlight = { wordHasLetterOnly: function wordHasLetterOnly(value, row, column) { console.log('in highlight');} }; </script>
+<script>
+    PxHighlight = {
+        isLongString: function isLongString(value, row, column) {
+        return ((value.length > 1) ? true : false);
+        },
+        wordBeginsWithLetterN: function wordBeginsWithLetterN(value, row, column) {
+        return ((value[0] === 'N') ? true : false);
+        },
+        wordBeginsWithLetterJ: function wordBeginsWithLetterS(value, row, column) {
+        return ((value[0] === 'J') ? true : false);
+        }
+  };
+</script>
